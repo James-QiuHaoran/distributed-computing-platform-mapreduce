@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.io/james-qiuhaoran/distributed-computing-platform-mapreduce.svg)](http://hits.dwyl.io/james-qiuhaoran/distributed-computing-platform-mapreduce)
-
 ## Introduction
 
 This is a parallel cloud computing framework called MapleJuice, which bears similarities with MapReduce/Hadoop.
